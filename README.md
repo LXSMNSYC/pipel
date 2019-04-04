@@ -12,10 +12,6 @@ Simple pipelines in JS
 | Linux | [![Build Status](https://travis-ci.org/LXSMNSYC/pipel.svg?branch=master)](https://travis-ci.org/LXSMNSYC/pipel) |
 | Windows | [![Build status](https://ci.appveyor.com/api/projects/status/mkjwe462uk80axx4?svg=true)](https://ci.appveyor.com/project/LXSMNSYC/pipel) |
 
-
-[![codecov](https://codecov.io/gh/LXSMNSYC/pipel/branch/master/graph/badge.svg)](https://codecov.io/gh/LXSMNSYC/pipel)
-[![Known Vulnerabilities](https://snyk.io/test/github/LXSMNSYC/pipel/badge.svg?targetFile=package.json)](https://snyk.io/test/github/LXSMNSYC/pipel?targetFile=package.json)
-
 ## Install
 
 NPM
